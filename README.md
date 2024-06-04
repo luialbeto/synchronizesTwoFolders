@@ -1,5 +1,5 @@
 # synchronizesTwoFolders
-Synchronizes Two Folders with Python
+Sync Two Folders with Python
 
 Quick Start
 
